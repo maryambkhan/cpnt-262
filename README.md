@@ -19,6 +19,32 @@
 2. **Nuxt Modules/Nuxt Configuration**
   - Already added Nuxt tailwindcss
   - Added dapendencies
+  - Added Nuxt Storyblok
+     - npm install --save-dev @storyblok/nuxt axios
+     - [In Modules Section]
+        
+  modules: [
+    [
+      "@storyblok/nuxt",
+       {
+        accessToken: "YOUR_PREVIEW_TOKEN",
+        cacheProvider: "memory",
+      },
+    ],
+  
+      
+  - Added Nuxt Image
+    - npm install -D @nuxt/image
+    - [In buildModules]
+
+      '@nuxt/image',
+
+  - Added Nuxt google-fonts
+    - npm install --save-dev @nuxtjs/google-fonts
+    - [In buildModules] 
+
+     '@nuxtjs/google-fonts', 
+
 
 3. **npm security vulnerabilities**
 

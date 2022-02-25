@@ -34,10 +34,23 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    //https://github.com/nuxt-community/google-fonts-module
+    '@nuxtjs/google-fonts',
+    //https://image.nuxtjs.org/getting-started/installation
+    '@nuxt/image',
+
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    //https://github.com/storyblok/storyblok-nuxt
+    [
+      "@storyblok/nuxt",
+      {
+        accessToken: "YOUR_PREVIEW_TOKEN",
+        cacheProvider: "memory",
+      },
+    ],
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
