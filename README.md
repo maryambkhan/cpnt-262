@@ -17,7 +17,8 @@
   so i edited it and redoing it
 
 2. **Nuxt Modules/Nuxt Configuration**
-
+  - Already added Nuxt tailwindcss
+  - Added dapendencies
 
 3. **npm security vulnerabilities**
 
