@@ -48,6 +48,12 @@
    we always writing content user is looking at this content.
   - So i need to make sure i have this module added and i can use plenty of styles.
 
+  - Added Animejs module
+    -$ npm install --save-dev nuxt-animejs
+
+  buildModules: ['nuxt-animejs']
+
+
 
 3. **npm security vulnerabilities**
 
