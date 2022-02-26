@@ -38,6 +38,8 @@ export default {
     '@nuxtjs/google-fonts',
     //https://image.nuxtjs.org/getting-started/installation
     '@nuxt/image',
+    //https://github.com/ivodolenc/nuxt-animejs
+    ['nuxt-animejs']
 
   ],
 

@@ -67,6 +67,8 @@
 - added modules
 - working on vulnerabilitie
 - added tailwind config file
+- added eslint as js
+- added animejs module
 
 ## Attributions
 
