@@ -44,6 +44,9 @@
     - [In buildModules] 
 
      '@nuxtjs/google-fonts', 
+  - I have added google-fonts becouse text is major thing 
+   we always writing content user is looking at this content.
+  - So i need to make sure i have this module added and i can use plenty of styles.
 
 
 3. **npm security vulnerabilities**
@@ -63,6 +66,7 @@
 - added assets folder with (tailwind.css)
 - added modules
 - working on vulnerabilitie
+- added tailwind config file
 
 ## Attributions
 
