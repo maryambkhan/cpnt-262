@@ -58,13 +58,15 @@
 
     ![Error](/assets/images/Capture.PNG)
   - Package.jason file is not uploding fully it says its long file
+  - I was wrong its there got me worried 
 - added dependencies
 - added assets folder with (tailwind.css)
 - added modules
+- working on vulnerabilitie
 
 ## Attributions
 
 - [Nust2](https://nuxtjs.org/docs/get-started/installation/)
 - [Nuxt Modules](https://modules.nuxtjs.org/)
 
-- [GH repo]()
+- [GH repo](https://github.com/maryambkhan/cpnt-262)
