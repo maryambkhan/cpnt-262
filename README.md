@@ -48,12 +48,19 @@
 
 3. **npm security vulnerabilities**
 
+- I wanted to sole these problems so read the gist and documentation from class did not understood much the watched a video
+ it looked simple but still not able to solve it.
+
 4. **Git Commits**
 
+- nuxt npm setup
   - My first commit and having problem pushing 
 
     ![Error](/assets/images/Capture.PNG)
   - Package.jason file is not uploding fully it says its long file
+- added dependencies
+- added assets folder with (tailwind.css)
+- added modules
 
 ## Attributions
 
