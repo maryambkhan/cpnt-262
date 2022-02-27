@@ -18,8 +18,11 @@
 
 2. **Nuxt Modules/Nuxt Configuration**
 
+   [tailwindcss](https://tailwindcss.nuxtjs.org/setup)
   - Already added Nuxt tailwindcss
   - Added dapendencies
+
+   [storyblok](https://github.com/storyblok/storyblok-nuxt)
   - Added Nuxt Storyblok
      - npm install --save-dev @storyblok/nuxt axios
      - [In Modules Section]
@@ -33,13 +36,13 @@
       },
     ],
   
-      
+    [image](https://image.nuxtjs.org/getting-started/installation)  
   - Added Nuxt Image
     - npm install -D @nuxt/image
     - [In buildModules]
 
       '@nuxt/image',
-
+    [google-fonts](https://github.com/nuxt-community/google-fonts-module)
   - Added Nuxt google-fonts
     - npm install --save-dev @nuxtjs/google-fonts
     - [In buildModules] 
@@ -49,10 +52,13 @@
    we always writing content user is looking at this content.
   - So i need to make sure i have this module added and i can use plenty of styles.
 
+   [animejs](https://github.com/ivodolenc/nuxt-animejs)
   - Added Animejs module
     -$ npm install --save-dev nuxt-animejs
 
   buildModules: ['nuxt-animejs']
+  - I added this module becouse i would love to work on 
+   animation
 
 
 
