@@ -1,4 +1,4 @@
-# cpnt-262
+# cpnt201-a4
 
 ## Maryam Khan
 
@@ -17,6 +17,7 @@
   so i edited it and redoing it
 
 2. **Nuxt Modules/Nuxt Configuration**
+
   - Already added Nuxt tailwindcss
   - Added dapendencies
   - Added Nuxt Storyblok
@@ -57,7 +58,7 @@
 
 3. **npm security vulnerabilities**
 
-- I wanted to sole these problems so read the gist and documentation from class did not understood much the watched a video
+- I wanted to solve these problems so read the gist and documentation from class did not understood much the watched a video
  it looked simple but still not able to solve it.
 
 4. **Git Commits**
@@ -75,10 +76,17 @@
 - added tailwind config file
 - added eslint as js
 - added animejs module
+- added links for modules
 
 ## Attributions
 
 - [Nust2](https://nuxtjs.org/docs/get-started/installation/)
 - [Nuxt Modules](https://modules.nuxtjs.org/)
+- [tailwindcss](https://tailwindcss.nuxtjs.org/setup)
+- [storyblok](https://github.com/storyblok/storyblok-nuxt)
+- [image](https://image.nuxtjs.org/getting-started/installation)
+- [google-fonts](https://github.com/nuxt-community/google-fonts-module)
+- [animejs](https://github.com/ivodolenc/nuxt-animejs)
 
-- [GH repo](https://github.com/maryambkhan/cpnt-262)
+
+- [GH repo](https://github.com/maryambkhan/cpnt201-a4)
