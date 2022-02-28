@@ -36,7 +36,7 @@
       },
     ],
   
-      [image](https://image.nuxtjs.org/getting-started/installation)  
+     [image](https://image.nuxtjs.org/getting-started/installation)  
   - Added Nuxt Image
     - `npm install -D @nuxt/image`
     - [In buildModules]
