@@ -35,6 +35,7 @@
         cacheProvider: "memory",
       },
     ],
+    
   
      [image](https://image.nuxtjs.org/getting-started/installation)  
   - Added Nuxt Image
