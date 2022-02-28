@@ -87,6 +87,8 @@
   8. added animejs module
   9. added links for modules
 
+     ![Hashes](/assets/images/hashes.PNG)
+
   - I tried my best to make my journal look assembeled and easy to read every time 
   it had some issue in there. I am done this is my last commit it better look good.
 
