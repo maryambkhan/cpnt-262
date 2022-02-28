@@ -71,21 +71,21 @@
 
 4. ### **Git Commits**
 
- 1. nuxt npm setup
-  - My first commit and having problem pushing 
+  1. nuxt npm setup
+   - My first commit and having problem pushing 
 
-    ![Error](/assets/images/Capture.PNG)
-  - Package.jason file is not uploding fully it says its long file
-  - I was wrong its there got me worried 
+     ![Error](/assets/images/Capture.PNG)
+   - Package.jason file is not uploding fully it says its long file
+   - I was wrong its there got me worried 
 
- 2. added dependencies
- 3. added assets folder with (tailwind.css)
- 4. added modules
- 5. working on vulnerabilitie
- 6. added tailwind config file
- 7. added eslint as js
- 8. added animejs module
- 9. added links for modules
+  2. added dependencies
+  3. added assets folder with (tailwind.css)
+  4. added modules
+  5. working on vulnerabilitie
+  6. added tailwind config file
+  7. added eslint as js
+  8. added animejs module
+  9. added links for modules
 
 ## Attributions
 
