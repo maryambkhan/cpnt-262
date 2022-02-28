@@ -6,7 +6,7 @@
 
 ## Code Journal
 
-1. ### **NPM Project Setup**
+ ### **NPM Project Setup**
 
   - First i created a repo and cloned it done then i realised in nuxt framework it is already git repo 
     so i deleted it and started over with:
@@ -16,7 +16,7 @@
   - This step created bunch of files including README.md
   so i edited it and redoing it
 
-2. ### **Nuxt Modules/Nuxt Configuration**
+ ### **Nuxt Modules/Nuxt Configuration**
 
     
   - Already added Nuxt tailwindcss
@@ -64,12 +64,12 @@
 
 
 
-3. ### **npm security vulnerabilities**
+ ### **npm security vulnerabilities**
 
 - I wanted to solve these problems so read the gist and documentation from class did not understood much the watched a video
  it looked simple but still not able to solve it.
 
-4. ### **Git Commits**
+ ### **Git Commits**
 
   1. nuxt npm setup
    - My first commit and having problem pushing 
@@ -86,6 +86,9 @@
   7. added eslint as js
   8. added animejs module
   9. added links for modules
+
+  - I tried my best to make my journal look assembeled and easy to read every time 
+  it had some issue in there. I am done this is my last commit it better look good.
 
 ## Attributions
 
