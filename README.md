@@ -71,23 +71,24 @@
 
  ### **Git Commits**
 
-  1. nuxt npm setup
+  1. nuxt npm setup (Hashes: eb50f56a847eba77e2733a37fb449d37258eb57d)
    - My first commit and having problem pushing 
 
      ![Error](/assets/images/Capture.PNG)
    - Package.jason file is not uploding fully it says its long file
    - I was wrong its there got me worried 
 
-  2. added dependencies
-  3. added assets folder with (tailwind.css)
-  4. added modules
-  5. working on vulnerabilitie
-  6. added tailwind config file
-  7. added eslint as js
-  8. added animejs module
-  9. added links for modules
+  2. added dependencies (Hashes:e192d4eacd2e6cb9ebf7239e1d9033e246f4c75e )
+  3. added assets folder with (tailwind.css) (Hashes: 34c301d1cab467d0fb963933e50857159e3ecaf6)
+  4. added modules (Hashes: e446a6ab202d50a1ad3f82bb171b2f8243aea83a)
+  5. working on vulnerabilitie (Hashes: be58ac7fcaf548c40da8e289164bc1c11f5cb657)
+  6. added tailwind config file (Hashes: ecfce4921c160e398ebe141cfe756fc1b0f7afd1)
+  7. added eslint as js (Hashes:bb004c855b6ba23346c3bdbd9cbc69b0fbe39f82 )
+  8. added animejs module (Hashes: 99e1ce311fb78d2813e521ec258ad5dc478bee24)
+  9. added links for modules (Hashes: 2784ca13643cdd5188020c52db2751e27f81787c)
+  10. added hashes 
 
-     ![Hashes](/assets/images/hashes.PNG)
+     
 
   - I tried my best to make my journal look assembeled and easy to read every time 
   it had some issue in there. I am done this is my last commit it better look good.
@@ -101,6 +102,9 @@
 - [image](https://image.nuxtjs.org/getting-started/installation)
 - [google-fonts](https://github.com/nuxt-community/google-fonts-module)
 - [animejs](https://github.com/ivodolenc/nuxt-animejs)
+
+
+- Stephan told me what hashes are.
 
 
 
